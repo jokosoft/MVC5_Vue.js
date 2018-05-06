@@ -1,0 +1,50 @@
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.cache
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CoreCompileInputs.cache
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CopyComplete
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb

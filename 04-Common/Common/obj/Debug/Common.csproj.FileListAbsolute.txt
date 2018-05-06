@@ -1,0 +1,30 @@
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\obj\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\obj\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Common\bin\Debug\EntityFramework.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\Common.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\Common.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\EntityFramework.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\LightInject.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\Newtonsoft.Json.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\EntityFramework.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\LightInject.pdb
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\LightInject.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\bin\Debug\Newtonsoft.Json.xml
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\obj\Debug\Common.csproj.CopyComplete
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\obj\Debug\Common.dll
+F:\Cursos\MVC5_Vue.js\Proyect\AnexUniv\04-Common\Common\obj\Debug\Common.pdb

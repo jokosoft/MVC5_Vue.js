@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/packages
+
+# 01
+/01-FrontEnd/bin
+/01-FrontEnd/obj
+/01-FrontEnd/Assets/vue_components/node_modules
