@@ -1,0 +1,41 @@
+git init --- inicia el repositorio del directorio
+
+git status   --- estado del repositorio (todo rojo)
+
+git add .  --- añade todo lo que existe en el directorio, excepto lo indicado el gitignore
+
+git status  --- todo verde
+
+git commit -m "primer commit" --- primer conmit local del repositorio con el mensaje indicado
+
+git status -- muestra que todo está añadido al repositorio
+
+git remote add origin https://github.com/jokosoft/TestServicioWCF.git --- se añade el origen remoto del repositorio (previamente creado en la página de GIT)
+
+git remote -v --- confirma que el repositorio git remoto está enlazado de manera correcta al proyecto
+
+git push -u origin master -- se realiza el commit al repositorio remoto de git
+
+---- creacion de un tag para releases
+
+git add .  -- añade los nuevos archivos creados
+
+git commit -m "detalle de lo añadido" - se suben los cambios al repo local
+
+git push -- sube los cambios al repo remoto
+
+git tag -a v1.0.0 -m "datos del release" -- crea el tag
+
+git tag -- muestra todos los tags que existen
+
+git push --tags  --- sube los tags pendientes al repo remoto
+
+-- ya se pueden añadir notas al tag desde la página de GIT
+
+
+
+
+
+
+
+
